@@ -6,14 +6,14 @@ This project provides a set of regular expressions (regex) to extract various da
 
 FEATURES
 
-Comprehensive regex patterns for common data types
-Edge case handling in tests
-Easy-to-understand output for test results
+Comprehensive regex patterns for common data types,
+Edge case handling in tests,
+Easy-to-understand output for test results.
 
 DATA TYPES COVERED
 
-Email Addresses
-URLs
-Phone Numbers (multiple formats)
-HTML Tags
-Hashtags
+Email Addresses,
+URLs,
+Phone Numbers (multiple formats),
+HTML Tags,
+Hashtags.
